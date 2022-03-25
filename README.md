@@ -17,7 +17,7 @@ All you need to do is call a endpoint telling what city you want to know. The sy
 ## Running
 
 - Download the source code
-- Open GitBash anmd navigate to the project's root directory
+- Open GitBash and navigate to the project's root directory
 - Type ` mvn clean install `
 - Navigate to target/ directory and type `java -jar Pokecity.jar`
 
