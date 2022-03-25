@@ -28,7 +28,7 @@ This API runs on port 8080.
 #### `http://{YourIP}:8080/pokecity/{city}`
 
 Where:
-- YourIP: Host IP (usually localhost)
+- YourIP: Host IP (commonly localhost)
 - city: Name of the City
 
 OR
